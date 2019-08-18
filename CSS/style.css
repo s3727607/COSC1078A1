@@ -1,12 +1,41 @@
-head{
-  
-}
 h1{
-  word-spacing:7px;
-  text-shadow:3px 2px slateblue;
-  padding:150px;
+    font-size: 60px;
+    font-style: oblique;
+    word-spacing:7px;
+    text-shadow: 3px 2px slateblue;
+    padding:150px;
 }
-body{
-  background-color:lightblue;
-  padding:200px;
+h2{
+    font-size: 45px;
+    font-style: italic;
+    border-bottom: 6px solid slateblue;
+    background-color: lightgrey;
 }
+h3{
+    font-size: 30px;
+    border-style: outset;
+    border-color: Gray;
+    border-radius:5px;
+}
+p{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size:20px;
+}
+body {
+    background-color:lightblue;
+    padding:260px;
+}
+
+div {
+  background-color: lightgrey;
+  width: 850px;
+  border: 8px solid slategray;
+  padding: 40px;
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#header{
+    padding:200;
+}
+
