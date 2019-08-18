@@ -2,8 +2,11 @@ head{
   
 }
 h1{
-  padding:30px;
+  word-spacing:7px;
+  text-shadow:3px 2px slateblue;
+  padding:150;
 }
 body{
-     padding:30px;
+  background-color:lightblue;
+  padding:200px;
 }
