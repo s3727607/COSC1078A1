@@ -1,1 +1,12 @@
-
+head{
+  
+}
+h1{
+  word-spacing:7px;
+  text-shadow:3px 2px slateblue;
+  padding:150;
+}
+body{
+  background-color:lightblue;
+  padding:200px;
+}
